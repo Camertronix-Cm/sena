@@ -41,6 +41,6 @@
   <li>Run the evaluation script to calculate <code>PSNR</code> and <code>SSIM</code> scores.</li>
 </ol>
 You can download the test dataset here:  
-👉 [Download from Google Drive]([https://drive.google.com/file/d/1AbC...XYZ/view?usp=sharing](https://drive.google.com/file/d/10AjXK0rBowJ9u_D2rO6le3d28sZ9S0i6/view?usp=sharing))
+👉 https://drive.google.com/file/d/10AjXK0rBowJ9u_D2rO6le3d28sZ9S0i6/view?usp=sharing
 
 <hr>
